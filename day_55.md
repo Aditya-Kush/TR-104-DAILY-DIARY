@@ -1,4 +1,4 @@
-# Date = 22 April 2025  
+# Date = 23 April 2025  
 # EVALUATION METRICS IN MACHINE LEARNING  
 
 I focused on understanding the core **evaluation metrics** used in machine learning. These metrics are essential to assess how well a model performs and to compare different models for a given task. I explored metrics for both classification and regression tasks with definitions, uses, and examples.
