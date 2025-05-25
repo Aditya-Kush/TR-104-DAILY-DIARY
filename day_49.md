@@ -1,4 +1,4 @@
-# Date = 14 April 2025
+# Date = 15 April 2025
 # TYPES OF MACHINE LEARNING (UNSUPERVISED LEARNING)
 The goal of Day was to explore about Unsupervised Learning which involves training models on data without labeled outputs. This type of learning is used to find hidden patterns, structures or groupings in the data. Common tasks within Unsupervised learning include clustering (e.g. K-Means, Hierarchical Clustering) and dimensionality reduction (PCA). By understanding Unsupervised learning techniques, I am able to analyze and interpret complex datasets, detect anomalies and uncover insights without predefined labels or categories.
 
