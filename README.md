@@ -1,10 +1,10 @@
 # TR-104 Daily Diary - Data Science Training
 
-Welcome to my daily diary for the **TR-104 Data Science Training** program. This repository documents my day-to-day learning, progress, and hands-on exercises during the course.
+Welcome to my daily diary for the **TR-104 Data Science Training** program. This repository documents my day-to-day learning, progress and hands-on exercises during the course.
 
 ## 📘 About This Diary
 
-This diary serves as a structured log of my journey through the Data Science training program, covering both theoretical concepts and practical implementations. It includes notes, key takeaways, challenges, and solutions from each day.
+This diary serves as a structured log of my journey through the Data Science training program, covering both theoretical concepts and practical implementations. It includes notes, key takeaways, challenges and solutions from each day.
 
 ## 📅 Structure
 
@@ -21,11 +21,17 @@ Each entry is organized by date and includes:
 Throughout the training, I worked with various tools and libraries such as:
 
 - Python
-- NumPy, Pandas, Matplotlib, Seaborn
+- NumPy
+- Pandas
+- Seaborn
+- Streamlit
+- Matplotlib
 - Scikit-learn
-- Jupyter Notebooks
-- SQL
 - Git & GitHub
+- Jupyter Notebooks
+- Structured Query Languages
+
+--- 
 
 ## 🎯 Goals
 
@@ -36,7 +42,7 @@ Throughout the training, I worked with various tools and libraries such as:
 
 ## 📂 Files
 
-- `TR-104-Daily-Diary.pdf`: Complete log of daily activities and learning.
+- `TR-104-Daily-Diary`: Complete log of daily activities and learning.
 - Additional notebooks and datasets will be uploaded as needed.
 
 ## 📌 Notes
