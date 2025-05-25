@@ -1,4 +1,4 @@
-# Date = 16 April 2025
+# Date = 17 April 2025
 # TYPES OF MACHINE LEARNING (REINFORCEMENT LEARNING)
 The goal of today was to explore about Reinforcement Learning.
 By the end of this session, I have gained a deeper understanding of how reinforcement learning works including key concepts such as agents, states, actions and rewards. Reinforcement learning is particularly useful for problems where the optimal solution involves a sequence of decisions such as game playing, robotics or autonomous driving.
