@@ -7,7 +7,7 @@ Today, I explored the importance of evaluation metrics in Machine Learning gaini
 ## Introduction to Evaluation Metrics
 - Evaluation metrics are essential tools in machine learning that allow us to quantify the performance of models. They help us understand how well a model has learned to make predictions and how well it generalizes to new and unseen data. These metrics vary depending on the type of task (such as Classification, Regression or Clustering) and can be used to compare different models and select the best one.
 
-- In Machine learning, we mainly deal with Supervised learning problems where the model is trained using labeled data. After training, we evaluate the model's performance using various metrics that measure how closely the model's predictions match the actual target values.
+- In Machine learning we mainly deal with Supervised learning problems where the model is trained using labeled data. After training, we evaluate the model's performance using various metrics that measure how closely the model's predictions match the actual target values.
 
 ---
 
