@@ -1,4 +1,4 @@
-# Date = 21 April 2025  
+# Date = 22 April 2025  
 # LOGISTIC REGRESSION — THEORY & IMPLEMENTATION  
 
 Today, I focused on understanding **Logistic Regression**, a fundamental classification algorithm in machine learning. Unlike linear regression, logistic regression is used for **predicting categorical outcomes**, especially binary classes such as "yes/no", "spam/ham", "pass/fail".
