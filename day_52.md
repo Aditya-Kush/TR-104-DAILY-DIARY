@@ -1,4 +1,4 @@
-# Date = 17 April 2025
+# Date = 18 April 2025
 # EVALUATION METRICES
 Today, I explored the importance of evaluation metrics in Machine Learning gaining a better understanding of how they help assess the performance of a model. These metrics are crucial for understanding how well a model generalizes to unseen data and for improving its accuracy through model tuning.
 
