@@ -7,7 +7,7 @@ Today, I focused on understanding **Logistic Regression**, a fundamental classif
 
 ## What is Logistic Regression?
 
-Logistic Regression is a **supervised learning algorithm** used to predict the probability of a target variable. The output is typically a value between 0 and 1, representing the probability of belonging to a particular class.
+Logistic Regression is a **supervised learning algorithm** used to predict the probability of a target variable. The output is typically a value between 0 and 1 representing the probability of belonging to a particular class.
 
 Instead of fitting a straight line, logistic regression uses the **logistic (sigmoid) function** to squeeze the output of a linear equation into a probability range:
 
