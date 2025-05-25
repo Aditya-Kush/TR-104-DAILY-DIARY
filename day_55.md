@@ -10,7 +10,7 @@ I focused on understanding the core **evaluation metrics** used in machine learn
 1. **Accuracy** – Measures the overall correctness of a classification model.
 2. **Precision** – Tells how many predicted positives are actually correct.
 3. **Recall** – Indicates how well the model captures all actual positives.
-4. **F1-Score** – Harmonic mean of precision and recall; useful for imbalanced datasets.
+4. **F1-Score** – Harmonic mean of precision and recall useful for imbalanced datasets.
 5. **Confusion Matrix** – A matrix to visualize model performance for classification.
 6. **MAE, MSE, RMSE** – Error-based metrics for regression tasks.
 7. **R² Score** – Measures how well predictions approximate actual outcomes.
