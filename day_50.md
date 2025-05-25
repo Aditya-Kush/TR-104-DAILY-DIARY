@@ -6,7 +6,7 @@ The goal of today was to dive into Clustering and Principal Component Analysis (
 ---
 
 ## Introduction:
-In this approach, The algorithm works with unlabeled data to identify hidden patterns, groupings or structures without predefined labels or categories.
+In this approach The algorithm works with unlabeled data to identify hidden patterns, groupings or structures without predefined labels or categories.
 
 1. Clustering: It focuses on grouping similar data points together with popular algorithms like K-Means and Hierarchical Clustering. These algorithms partition the data into clusters, where points in the same group are more similar to each other than to those in other groups.
 
