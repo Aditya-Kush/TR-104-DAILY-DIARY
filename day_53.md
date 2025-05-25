@@ -1,4 +1,4 @@
-# Date = 18 April 2025  
+# Date = 21 April 2025  
 # LINEAR REGRESSION — THEORY & IMPLEMENTATION  
 
 Today, I focused on understanding **Linear Regression**, one of the most fundamental algorithms in machine learning and statistics. I studied both the theoretical background and implemented a basic linear regression model using Python and the `scikit-learn` library.
